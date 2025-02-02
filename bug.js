@@ -1,0 +1,1 @@
+The following code snippet demonstrates an uncommon error in Firebase where a transaction fails silently without providing any error details. This can occur when using the `runTransaction` method and the transaction function throws an unexpected error that's not caught.
